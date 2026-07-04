@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hex2rgb-converter/static/css/main.840b8f3c.css",
+    "main.js": "/hex2rgb-converter/static/js/main.eba7c5f3.js",
+    "static/js/453.5bdf3d10.chunk.js": "/hex2rgb-converter/static/js/453.5bdf3d10.chunk.js",
+    "index.html": "/hex2rgb-converter/index.html",
+    "main.840b8f3c.css.map": "/hex2rgb-converter/static/css/main.840b8f3c.css.map",
+    "main.eba7c5f3.js.map": "/hex2rgb-converter/static/js/main.eba7c5f3.js.map",
+    "453.5bdf3d10.chunk.js.map": "/hex2rgb-converter/static/js/453.5bdf3d10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840b8f3c.css",
+    "static/js/main.eba7c5f3.js"
+  ]
+}
